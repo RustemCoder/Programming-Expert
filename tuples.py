@@ -9,3 +9,13 @@ print(t2.count(3))
 print(t1.index(2))
 
 print(t1[0])
+
+
+#combined tuples
+
+combined = t1 + t2
+print(combined)
+
+#tuple
+x = 1,2,3,4,5
+print(x)
