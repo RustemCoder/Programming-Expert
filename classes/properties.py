@@ -12,3 +12,5 @@ class Time:
 t = Time(54)
 t.second = 59
 print(t.second)
+
+
